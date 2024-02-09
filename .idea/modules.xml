@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/trabajo.iml" filepath="$PROJECT_DIR$/trabajo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trabajo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/trabajo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trabajo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/trabajo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabajointelij.iml" filepath="$PROJECT_DIR$/trabajointelij.iml" />
+    </modules>
+  </component>
+</project>
